@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "IBM Plex Mono, Iosevka, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "100",
+    "workbench.fontAliasing": "auto",
+    "html.autoClosingTags": false
+}
