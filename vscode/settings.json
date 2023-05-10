@@ -1,4 +1,7 @@
 {
+    "workbench.colorTheme": "Default Dark Modern",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 2,
     "editor.fontFamily": "IBM Plex Mono, Iosevka, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.fontWeight": "100",
